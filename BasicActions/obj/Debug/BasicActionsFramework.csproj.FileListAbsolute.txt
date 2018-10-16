@@ -1,0 +1,18 @@
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\bin\Debug\BasicActions.dll
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\bin\Debug\BasicActions.pdb
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\bin\Debug\WebDriver.dll
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\bin\Debug\WebDriver.Support.dll
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\bin\Debug\WebDriver.xml
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\bin\Debug\WebDriver.Support.xml
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\obj\Debug\BasicActionsFramework.csprojResolveAssemblyReference.cache
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\obj\Debug\BasicActions.dll
+c:\users\mai.fathy\documents\visual studio 2013\Projects\BasicActions\BasicActions\obj\Debug\BasicActions.pdb
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\bin\Debug\BasicActions.dll
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\bin\Debug\BasicActions.pdb
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\bin\Debug\WebDriver.xml
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\bin\Debug\WebDriver.Support.xml
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\obj\Debug\BasicActionsFramework.csprojResolveAssemblyReference.cache
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\obj\Debug\BasicActions.dll
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\obj\Debug\BasicActions.pdb
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\bin\Debug\WebDriver.dll
+D:\Mai work 2016\Visual Studio 2013\BasicActions\BasicActions\bin\Debug\WebDriver.Support.dll
